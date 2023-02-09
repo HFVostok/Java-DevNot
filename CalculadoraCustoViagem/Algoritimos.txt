@@ -1,0 +1,9 @@
+
+Calcular o custo de estimado da viagem
+
+1- Obter a distancia em quilometros.
+2- Obter o preço da gasolina por litros.
+3- Obter quantos quilometros por litro o carro gasta.
+4- Dividir a distancia percorrida por quilometragem por litro que carro faz, obtendo o consumo de litros que o carro teve.
+5- Multiplicar o consumo de litros pelo o preço da gasolina.  
+6- Exibir a resultado da multiplicação.

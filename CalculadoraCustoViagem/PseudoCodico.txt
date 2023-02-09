@@ -1,0 +1,7 @@
+1- adistanciaPercorridaEmkm = obterInformacaoDoUsuario();
+2- consumoPorkmDoVeiculo = obterInformacaoDoUsuario();
+3- valorDoCombustivel = obterInformacaoDoUsuario();
+
+4- preçoEstimadoDaViagem = ((adistanciaPercorridaEmkm/consumoPorkmDoVeiculo)* valorDoCombustivel);
+
+5- retornaOValorEstimadoDaViagem = preçoEstimadodaViagem;
